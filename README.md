@@ -32,7 +32,7 @@
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| **[🦆Hyper User Interface🎮](https://github.com/Aukvary/HyperUserInterface)** | ECS UI Library for Duck Game | C#, .NET, Roslyn | ![Active](https://img.shields.io/badge/🟢_Active_Development-orange) |
+| **[🦆Hyper User Interface🎮](https://github.com/Aukvary/Hyper-User-Interface)** | ECS UI Library for Duck Game | C#, .NET, Roslyn | ![Active](https://img.shields.io/badge/🟢_Active_Development-orange) |
 | **[📖NSU tasks🤓](https://github.com/Aukvary/NSU)** | Tasks for study projects | C, Python, CDM-8 | ![Active](https://img.shields.io/badge/🟢_In_Development-yellow) |
 
 </div>
