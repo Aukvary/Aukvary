@@ -48,7 +48,7 @@
 ## 🎯 Current Goals
 - [ ] Release Hyper UI v1.0
 - [ ] Learn advanced Rust  
-- [ ] Learn vulcan
+- [ ] Learn Vulcan
 - [ ] Complete 1st year of university
 ## 📫 Connect With Me
 
