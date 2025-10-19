@@ -10,6 +10,9 @@
 </div>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,12 +23,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ## 🚀 Active Projects
+
+<div align="center">
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
 | **[🦆Hyper User Interface🎮](https://github.com/Aukvary/HyperUserInterface)** | ECS UI Library for Duck Game | C#, .NET, Roslyn | ![Active](https://img.shields.io/badge/🟢_Active_Development-orange) |
 | **[📖NSU tasks🤓](https://github.com/Aukvary/NSU)** | Tasks for study projects | C, Python, CDM-8 | ![Active](https://img.shields.io/badge/🟢_In_Development-yellow) |
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -37,11 +46,13 @@
 </div>
 
 ## 🎯 Current Goals
+
 - [ ] Release Hyper UI v1.0
 - [ ] Learn advanced Rust  
 - [ ] Learn Vulcan
 - [ ] Complete 1st year of university
-## 📫 Connect With Me
+
+## 🌐 Socials
 
 <div align="center">
 
