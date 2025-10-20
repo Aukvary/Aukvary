@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![fuck ph and as](https://private-user-images.githubusercontent.com/154656953/502986500-17a66e8f-9a36-419a-9068-5a5c23c631d2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA4ODc2OTMsIm5iZiI6MTc2MDg4NzM5MywicGF0aCI6Ii8xNTQ2NTY5NTMvNTAyOTg2NTAwLTE3YTY2ZThmLTlhMzYtNDE5YS05MDY4LTVhNWMyM2M2MzFkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxOVQxNTIzMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMzRkMjFlYjZmNmY3MGJlZDRhYjE4YmNhYTczN2IwNGZmMzZjNjYxMjYzYzQ0ZDRhZjI5YTgzZjRiOTdjZDliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JxOr0gmxqec4SysjoW_9uiH81PD5KjTAuMpkbZU0u5w)
+![fuck ph and as](https://raw.githubusercontent.com/Aukvary/Aukvary/main/FUCK%20ALL%20MY%20HOMIES%20USE.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aukvary&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/aukvary?color=blue&style=flat-square)
