@@ -71,6 +71,6 @@
   
 ### 🔥❝НУ ЧТО ВДАРИМ РОК В ЭТОЙ ДЫРЕ!!!❞🔥 
 #### **- ♿Сергей Маляр♿**
-![sereg](https://private-user-images.githubusercontent.com/154656953/502984175-ef29955e-52f1-4d89-be08-7a13c5b57f80.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA4ODcwMDcsIm5iZiI6MTc2MDg4NjcwNywicGF0aCI6Ii8xNTQ2NTY5NTMvNTAyOTg0MTc1LWVmMjk5NTVlLTUyZjEtNGQ4OS1iZTA4LTdhMTNjNWI1N2Y4MC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxOVQxNTExNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNWYxM2E1NDk3ZDBhOWI3NzQyMTFkODU3ZjI5MzA3OWJlNzdmYjZiMjBlZDQwYjZiZmVjYTZhODliNjU5NGIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FLxSBsQUhT79l1boGmOQ1fEQc9RifpEGMZ-iR0nDy4A)
+![sereg](https://raw.githubusercontent.com/Aukvary/Aukvary/main/502984175-ef29955e-52f1-4d89-be08-7a13c5b57f80.gif)
 
 </div>
