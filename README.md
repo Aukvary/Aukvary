@@ -52,7 +52,7 @@
 ## 🎯 Current Goals
 
 - [ ] Release Hyper UI v1.0
-- [ ] Learn advanced Userver
+- [ ] Learn Userver
 - [ ] Complete 2st year of university
 
 ## 🌐 Socials
