@@ -1,7 +1,6 @@
 <div align="center">
 
 
-![fuck ph and as](https://raw.githubusercontent.com/Aukvary/Aukvary/main/FUCK%20ALL%20MY%20HOMIES%20USE.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aukvary&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/aukvary?color=blue&style=flat-square)
@@ -71,8 +70,6 @@
 
 <div align="center">
   
-### 🔥❝НУ ЧТО ВДАРИМ РОК В ЭТОЙ ДЫРЕ!!!❞🔥 
-#### **- ♿Сергей Маляр♿**
-![sereg](https://raw.githubusercontent.com/Aukvary/Aukvary/main/502984175-ef29955e-52f1-4d89-be08-7a13c5b57f80.gif)
+
 
 </div>
